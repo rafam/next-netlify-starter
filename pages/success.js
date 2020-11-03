@@ -8,5 +8,5 @@ export default function Success() {
 				<a>Go back home</a>
 			</Link>
 		</div>
-	}
+	)
 }
